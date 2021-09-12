@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'justin',
-  domain: 'betterleaf.blog',
-  author: 'Travis Fischer',
+  name: '好葉',
+  domain: 'betterleaf.app',
+  author: 'Betterleaf 好葉',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: '好葉',
+  socialImageSubtitle: '陪你一起學習學校沒教的知識! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  facebook: 'betterleaf',
   github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  linkedin: 'betterleaf',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
