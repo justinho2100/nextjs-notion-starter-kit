@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9cfed09e8b794657b31658f10d259f46',
+  rootNotionPageId: '2bcc65c0999645afa3ca292c841cee95',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -12,13 +12,13 @@ module.exports = {
   author: 'Betterleaf 好葉',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '陪你一起學習學校沒教的知識!',
   socialImageTitle: '好葉',
-  socialImageSubtitle: '陪你一起學習學校沒教的知識! 👋',
+  socialImageSubtitle: '你好，我是好葉 👋',
 
   // social usernames (optional)
-  facebook: 'betterleaf',
-  github: 'transitive-bullshit',
+  twitter: 'betterleaf',
+  github: 'justinho2100',
   linkedin: 'betterleaf',
 
   // default notion icon and cover images for site-wide consistency (optional)
