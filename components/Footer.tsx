@@ -44,8 +44,8 @@ export const Footer: React.FC<{
         {config.twitter && (
           <a
             className={styles.twitter}
-            href={`https://twitter.com/${config.twitter}`}
-            title={`Twitter @${config.twitter}`}
+            href={`https://www.instagram.com/${config.twitter}`}
+            title={`Instagram @${config.twitter}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -56,8 +56,8 @@ export const Footer: React.FC<{
         {config.github && (
           <a
             className={styles.github}
-            href={`https://github.com/${config.github}`}
-            title={`GitHub @${config.github}`}
+            href={`https://www.youtube.com/channel/${config.github}`}
+            title={`YouTube @${config.github}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -68,8 +68,8 @@ export const Footer: React.FC<{
         {config.linkedin && (
           <a
             className={styles.linkedin}
-            href={`https://www.linkedin.com/in/${config.linkedin}`}
-            title={`LinkedIn ${config.author}`}
+            href={`https://www.facebook.com/in/${config.linkedin}`}
+            title={`Facebook ${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
           >
