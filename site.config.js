@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'betterleaf',
   github: 'UCfzubZRiTrGx4PsYphy6MpQ',
-  linkedin: 'betterleaf',
+  linkedin: 'betterleaf.haoye',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
